@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576170814291",
+    "project_id": "joosik-ac831",
+    "storage_bucket": "joosik-ac831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576170814291:android:04643623c8bfa8ac4f4fa6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3dOFos0jCalkrTAGFYK-pNTF5e8ZaRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
